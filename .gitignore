@@ -1,0 +1,7 @@
+db.sqlite3
+secrets.json
+__pycache__
+*.py[co]
+*.csv
+*.in
+

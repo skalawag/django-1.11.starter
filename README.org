@@ -1,0 +1,8 @@
+* What's this?
+This is a django project template suitable for 1.11 <= Django < 2.0.
+
+This template makes use of pip-tools: [[https://github.com/jazzband/pip-tools][here]]. in PROJ/requirements, run
+compile.sh (or modify first and then run it) to produce pinned
+requirements.
+
+
